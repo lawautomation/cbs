@@ -23,8 +23,8 @@ public class User {
                 firstName = "Sherdon";
                 lastName = "Cooper";
                 email = e;
-                password = "cbs123456";
-                confirmPwd = "cbs123456";
+                password = "Cbs123456";
+                confirmPwd = "Cbs123456";
                 secretQ = "What does Olga like?";
                 secretA = "llamas";  
                 territory = "USA"; 
@@ -34,8 +34,8 @@ public class User {
          firstName = "Sherdon";
          lastName = "Cooper";
          email = e;
-         password = "cbs12345";
-         confirmPwd = "cbs12345";
+         password = "Cbs123456";
+         confirmPwd = "Cbs123456";
          secretQ = "What does Olga like?";
          secretA = "llamas";  
          territory = "AUS"; 
@@ -45,8 +45,8 @@ public class User {
         firstName = "Sherdon";
         lastName = "Cooper";
         email = e;
-        password = "aaaaaaaa";
-        confirmPwd = "aaaaaaaa";
+        password = "Cbs123456";
+        confirmPwd = "Cbs123456";
         secretQ = "What does Olga like?";
         secretA = "llamas";  
         territory = "CAN"; 

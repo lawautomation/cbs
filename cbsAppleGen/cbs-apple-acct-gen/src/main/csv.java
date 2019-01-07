@@ -4,8 +4,6 @@ import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-//"/Users/lcren1026/Drivers/file2.csv"
-
 public class csv {
 
 	String emailTitle = "Email:  ";

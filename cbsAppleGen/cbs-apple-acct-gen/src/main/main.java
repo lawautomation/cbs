@@ -100,13 +100,13 @@ public class main {
 				  				  
 			  }catch(WebDriverException e)
 			  {
-				  //drive.close();
+				  drive.close();
 				  System.out.println("Try again. Account maybe already created");
 			  }
 			  
 			  wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("button.tb-btn--primary:nth-child(2)")));
 			  drive.findElement(By.cssSelector("button.tb-btn--primary:nth-child(2)")).click();			  	
-			 // drive.close();
+			drive.close();
 			  
 			  csv csvWrite = new csv();
 			  try {

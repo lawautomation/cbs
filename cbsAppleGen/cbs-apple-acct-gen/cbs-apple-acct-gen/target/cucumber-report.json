@@ -1,0 +1,40 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Apple account can be created",
+        "description": "",
+        "id": "runner;apple-account-can-be-created",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 32401020850,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user creates account",
+            "match": {
+              "location": "steps.createAppleAcc()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@First"
+          }
+        ]
+      }
+    ],
+    "name": "runner",
+    "description": "",
+    "id": "runner",
+    "keyword": "Feature",
+    "uri": "test/cbs-apple-acct-gen.feature",
+    "tags": []
+  }
+]
